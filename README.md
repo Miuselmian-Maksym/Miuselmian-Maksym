@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Maksym 👋
 
-<!--
-**Miuselmian-Maksym/Miuselmian-Maksym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught fullstack developer based in Ukraine 🇺🇦, passionate about building clean, scalable, and maintainable web apps.
 
-Here are some ideas to get you started:
+🧠 **Core Stack:**
+- Python / Django (including Django REST Framework)
+- React.js, JavaScript, HTML, CSS (Bootstrap & Tailwind)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I’m currently working on fullstack projects with a Django + React stack, building robust APIs and interactive UIs.
+
+🧩 **What I offer:**
+- Attention to clean, pedantic code and architecture
+- Fast learning & problem-solving mindset
+- Flexible availability to balance study & work
+- Open to any type of freelance, part-time, or collaborative projects — including startups
+
+📬 **Contact:**
+Feel free to reach me at **miuselmianMV.git@icloud.com** or via [Telegram](https://t.me/YOUR_USERNAME) — I’ll reply fast.
