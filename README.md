@@ -15,4 +15,4 @@ I'm a self-taught fullstack developer based in Ukraine 🇺🇦, passionate abou
 - Open to any type of freelance, part-time, or collaborative projects — including startups
 
 📬 **Contact:**
-Feel free to reach me at **miuselmianMV.git@icloud.com** or via [Telegram](https://t.me/YOUR_USERNAME) — I’ll reply fast.
+Feel free to reach me at **miuselmianMV.git@icloud.com** or via [Telegram](https://t.me/Mak7imi7yan) — I’ll reply fast.
