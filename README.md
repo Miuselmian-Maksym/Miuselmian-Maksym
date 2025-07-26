@@ -1,18 +1,12 @@
-### Hi, I'm Maksym 👋
+🚀 Freelance Fullstack Developer | Python, Django, React
 
-I'm a self-taught fullstack developer based in Ukraine 🇺🇦, passionate about building clean, scalable, and maintainable web apps.
+Hi, I’m Maksym — a passionate self-taught fullstack developer from Ukraine. While I don’t have commercial experience yet, I’ve built multiple study and pet projects using **Django (REST API)** on the backend and **React.js** on the frontend. I’m confident in both areas and eager to take on real-world challenges.
 
-🧠 **Core Stack:**
-- Python / Django (including Django REST Framework)
-- React.js, JavaScript, HTML, CSS (Bootstrap & Tailwind)
+### ✅ Why work with me:
+- I write **clean, scalable, and maintainable code**
+- I'm a **fast learner** — I’ll figure out solutions even for problems I’ve never faced before
+- I’m open to **collaboration, freelance gigs, or startup environments**
+- I offer **flexible hours** to match your timeline
 
-💻 I’m currently working on fullstack projects with a Django + React stack, building robust APIs and interactive UIs.
-
-🧩 **What I offer:**
-- Attention to clean, pedantic code and architecture
-- Fast learning & problem-solving mindset
-- Flexible availability to balance study & work
-- Open to any type of freelance, part-time, or collaborative projects — including startups
-
-📬 **Contact:**
-Feel free to reach me at **miuselmianMV.git@icloud.com** or via [Telegram](https://t.me/Mak7imi7yan) — I’ll reply fast.
+Let’s build something cool together!  
+📬 Contact: **miuselmianMV.git@icloud.com** or via [Telegram](https://t.me/YOUR_USERNAME)
